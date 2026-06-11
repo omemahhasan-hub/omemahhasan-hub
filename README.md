@@ -5,7 +5,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2800&pause=2000&color=2563EB&center=true&vCenter=true&width=650&height=75&lines=Data+Analyst+%7C+SQL+%7C+Python;Transforming+Data+Into+Impact" alt="Typing SVG" />
 
-<i>A comprehensive showcase of projects, insights, and professional journey</i>
+<sub><i>A comprehensive showcase of projects, insights, and professional journey</i></sub>
 -------
 <a href="https://omemahhasan-hub.github.io/">
  <img src="https://img.shields.io/badge/VIEW PROJECTS-2563EB?style=for-the-badge" alt="Portfolio">
