@@ -18,8 +18,8 @@
 
 
 ##  About Me
-
-**Data analyst fresher** turning raw data into actionable insights. Specialized in Python, SQL, and advanced visualization. I build real projects, not just theories—proven by my portfolio and hands-on experience. **Ready to deliver measurable business impact from day one.**
+Aspiring Data Analyst with hands-on experience in Python, SQL, Excel, and data visualization. I build real-world analytics projects that transform raw data into meaningful insights and interactive dashboards. Experienced in both manual dashboard development and AI-assisted analytics workflows, combining strong analytical foundations with modern productivity tools. Focused on delivering clear, data-driven solutions to business problems.
+. **Ready to deliver measurable business impact from day one.**
 
 ---
 
