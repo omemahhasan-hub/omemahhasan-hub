@@ -1,3 +1,22 @@
+<!-- Animated Header -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=1E3A8A&center=true&vCenter=true&width=700&height=100&lines=Data+Analyst+%7C+SQL+%7C+Python;Transforming+Data+Into+Actionable+Insights;Building+Data-Driven+Solutions" alt="Typing SVG" />
+
+</div>
+
+---
+
+<div align="center">
+
+
+
+
+
+
+
+
+
 <!-- Portfolio Link - Top Priority -->
 
 <!-- Animated Header with Darker Blue -->
