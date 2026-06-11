@@ -29,7 +29,7 @@ Aspiring Data Analyst with hands-on experience in Python, SQL, Excel, and data v
 ### 1️⃣ Sales Analytics Dashboard
 **End-to-end sales analysis with interactive dashboards**
 
-![Sales Dashboard](images/dashboards/dashboard-1-sc.PNG)
+![Dashboard 1](images/dashboards/dashboard-1-sc.PNG) 
 
 Analyzed sales trends, customer behavior, and revenue patterns  
 **Result**: +23% improvement in actionable insights  
