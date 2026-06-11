@@ -86,17 +86,6 @@ Reduced manual processing time significantly
 
 ---
 
-
-##  Why Me?
-
-✅ **Practical Experience** - Built real projects solving actual problems  
-✅ **Self-Driven** - Invested time to master in-demand skills  
-✅ **Results-Oriented** - Deliver measurable business impact  
-✅ **Quick Learner** - Adapt fast to new tools and methodologies  
-✅ **Fresh Perspective** - Bring modern approaches to data challenges  
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
