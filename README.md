@@ -65,7 +65,7 @@ Reduced manual processing time significantly
 
 </div>
 
----
+
 
 ## Tech Stack
 
