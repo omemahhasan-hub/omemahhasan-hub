@@ -22,13 +22,13 @@
 
 
 
-## 💡 About Me
+##  About Me
 
 **Data analyst fresher** turning raw data into actionable insights. Specialized in Python, SQL, and advanced visualization. I build real projects, not just theories—proven by my portfolio and hands-on experience. **Ready to deliver measurable business impact from day one.**
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -91,7 +91,7 @@ Reduced manual processing time significantly
 
 ---
 
-## 📈 Key Strengths
+##  Key Strengths
 
 | 🎯 Skill | Level | Proof |
 |----------|-------|-------|
@@ -103,7 +103,7 @@ Reduced manual processing time significantly
 
 ---
 
-## 🚀 Why Me?
+##  Why Me?
 
 ✅ **Practical Experience** - Built real projects solving actual problems  
 ✅ **Self-Driven** - Invested time to master in-demand skills  
