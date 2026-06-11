@@ -1,169 +1,123 @@
-<!-- Animated Header -->
+<!-- Portfolio Link - Top Priority -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3B82F6&center=true&width=600&height=100&lines=Data+Analyst+%7C+Problem+Solver;Turning+Data+Into+Decisions" alt="Typing SVG" />
+
+## 🌐 [Visit My Portfolio Website](https://omemahhasan-hub.github.io/)
+
+*A comprehensive showcase of projects, insights, and professional journey*
+
+---
+
+</div>
+
+<!-- Animated Header with Darker Blue -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=1e3a8a&center=true&width=600&height=100&lines=Data+Analyst+%7C+SQL+%7C+Python;Transforming+Data+Into+Impact" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🎯 About Me
+## 💡 About Me
 
-I'm a **data analyst fresher** transforming raw data into actionable business insights. Specializing in **Python, SQL, and advanced data visualization**, I combine analytical thinking with creative problem-solving to deliver measurable business impact.
-
-Rather than traditional employment, I've invested my time building a strong **project portfolio** and **professional presence** that demonstrates real-world problem-solving capabilities. My fresher perspective brings fresh ideas and eagerness to contribute to data-driven organizations.
+**Data analyst fresher** turning raw data into actionable insights. Specialized in Python, SQL, and advanced visualization. I build real projects, not just theories—proven by my portfolio and hands-on experience. **Ready to deliver measurable business impact from day one.**
 
 ---
 
-## 🚀 Featured Projects
+## 📊 Featured Projects
 
 <div align="center">
 
-### 📊 [Sales Analytics Dashboard](https://github.com/omemahhasan-hub/sales-analytics)
-**End-to-end sales analysis with interactive visualizations**
-- Identified sales trends and customer behavior patterns
-- **+23% improvement** in actionable insights
-- **Tech**: Python • Pandas • Matplotlib • Seaborn
+### 1️⃣ Sales Analytics Dashboard
+**End-to-end sales analysis with interactive dashboards**
+
+![Sales Dashboard](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&h=300&fit=crop)
+
+Analyzed sales trends, customer behavior, and revenue patterns  
+**Result**: +23% improvement in actionable insights  
+**Stack**: Python • Pandas • Matplotlib • Seaborn
+
+👉 **[View Project](https://github.com/omemahhasan-hub/sales-analytics)**
 
 ---
 
-### 🎯 [Customer Segmentation Analysis](https://github.com/omemahhasan-hub/customer-segmentation)
-**Machine learning-based customer clustering**
-- Segmented customers using K-means clustering
-- Achieved **87% silhouette score** with RFM analysis
-- **Tech**: Python • Scikit-learn • SQL • Tableau
+### 2️⃣ Customer Segmentation Analysis
+**ML-powered customer clustering & RFM analysis**
+
+![Analytics Dashboard](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=500&h=300&fit=crop)
+
+Segmented customers using K-means clustering  
+**Result**: 87% silhouette score with actionable segments  
+**Stack**: Python • Scikit-learn • SQL • Tableau
+
+👉 **[View Project](https://github.com/omemahhasan-hub/customer-segmentation)**
 
 ---
 
-### 🔄 [E-commerce Data Pipeline](https://github.com/omemahhasan-hub/ecommerce-pipeline)
+### 3️⃣ E-commerce Data Pipeline
 **Automated ETL pipeline for data processing**
-- Reduced manual processing time by **85%**
-- Streamlined reporting and data workflows
-- **Tech**: Python • SQL • Excel • Power BI
+
+![Data Pipeline](https://images.unsplash.com/photo-1557838923-2985c318be48?w=500&h=300&fit=crop)
+
+Reduced manual processing time significantly  
+**Result**: 85% time reduction through automation  
+**Stack**: Python • SQL • Excel • Power BI
+
+👉 **[View Project](https://github.com/omemahhasan-hub/ecommerce-pipeline)**
 
 </div>
 
 ---
 
-## 💼 Live Portfolio
+## 🛠 Tech Stack
 
 <div align="center">
 
-### **[Visit My Portfolio Website →](https://omemahhasan-hub.github.io/)**
-
-*A comprehensive showcase of my projects, skills, and professional journey*
-
-</div>
-
----
-
-## 🛠 Technical Expertise
-
-<div align="center">
-
-### Languages & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### Data Analysis & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Visualization & BI
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2CC0C?style=for-the-badge&logo=power-bi&logoColor=black)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 Core Competencies
+## 📈 Key Strengths
 
-| Skill | Proficiency | Experience |
-|-------|------------|------------|
-| **Data Analysis & Cleaning** | ⭐⭐⭐⭐⭐ | 3+ Projects |
-| **Python Programming** | ⭐⭐⭐⭐☆ | Data Analysis, ML |
-| **SQL & Databases** | ⭐⭐⭐⭐☆ | Complex Queries |
-| **Data Visualization** | ⭐⭐⭐⭐⭐ | Multiple Tools |
-| **Machine Learning** | ⭐⭐⭐⭐☆ | Clustering, Classification |
-| **Business Intelligence** | ⭐⭐⭐⭐☆ | Dashboard Creation |
-| **Statistical Analysis** | ⭐⭐⭐⭐☆ | Hypothesis Testing |
+| 🎯 Skill | Level | Proof |
+|----------|-------|-------|
+| Data Analysis | ⭐⭐⭐⭐⭐ | 3 Complete Projects |
+| Python | ⭐⭐⭐⭐☆ | Data Analysis & ML |
+| SQL | ⭐⭐⭐⭐☆ | Complex Data Queries |
+| Visualization | ⭐⭐⭐⭐⭐ | Tableau, Power BI |
+| Problem-Solving | ⭐⭐⭐⭐⭐ | Real-world Projects |
 
 ---
 
-## 💡 My Approach
+## 🚀 Why Me?
 
-```
-📊 Define → Analyze → Visualize → Communicate → Impact
-
-Problem Understanding → Data Exploration → Statistical Testing 
-→ Insight Generation → Actionable Recommendations
-```
-
-**What I bring to the table:**
-- ✅ **Analytical Mindset**: Systematic approach to problem-solving
-- ✅ **Self-Directed Learning**: Consistently upgrading skills & staying current
-- ✅ **Practical Skills**: Real projects demonstrating end-to-end workflows
-- ✅ **Business Acumen**: Connecting data insights to business value
-- ✅ **Clear Communication**: Translating complex insights for stakeholders
+✅ **Practical Experience** - Built real projects solving actual problems  
+✅ **Self-Driven** - Invested time to master in-demand skills  
+✅ **Results-Oriented** - Deliver measurable business impact  
+✅ **Quick Learner** - Adapt fast to new tools and methodologies  
+✅ **Fresh Perspective** - Bring modern approaches to data challenges  
 
 ---
 
-## 🎓 Philosophy
-
-> *"Study gaps aren't limitations—they're opportunities to build exactly what the market needs."*
-
-I've transformed my time into:
-- 🔬 Hands-on project experience
-- 📚 Advanced certifications and courses
-- 💼 Professional portfolio and presence
-- 🎯 Demonstrated problem-solving capabilities
-
----
-
-## 📊 GitHub Activity
+## 📬 Let's Connect
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=omemahhasan-hub&color=3B82F6&style=for-the-badge&label=Profile%20Views)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm actively looking for opportunities to:
-- 🚀 Apply analytical skills to real-world challenges
-- 📚 Learn from experienced professionals
-- 🔄 Collaborate on data-driven projects
-- 💡 Make measurable business impact
-
-<div align="center">
-
-### **Get In Touch**
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1e3a8a?style=for-the-badge&logo=globe&logoColor=white)](https://omemahhasan-hub.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omemahhasan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=globe&logoColor=white)](https://omemahhasan-hub.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omemahhasan-hub)
 
-</div>
-
 ---
 
-<div align="center">
-
-### ⭐ If you find my projects useful, consider giving them a star! It keeps me motivated.
-
-**Ready to turn data into decisions. Let's work together!**
+### 💬 Open to opportunities | Data Analysis | Python | SQL | Business Intelligence
 
 </div>
