@@ -6,9 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=60A5FA&center=true&vCenter=true&width=650&height=100&lines=Data+Analyst+%7C+SQL+%7C+Python;Transforming+Data+Into+Impact" alt="Typing SVG" />
 
-<h3>
-<font color="#2563EB">PROFESSIONAL PORTFOLIO</font>
-</h3>
 
 <i>A comprehensive showcase of projects, insights, and professional journey</i>
 
