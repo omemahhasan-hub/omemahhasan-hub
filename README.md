@@ -6,19 +6,19 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=60A5FA&center=true&vCenter=true&width=650&height=100&lines=Data+Analyst+%7C+SQL+%7C+Python;Transforming+Data+Into+Impact" alt="Typing SVG" />
 
+<h3>
+<font color="#2563EB">PROFESSIONAL PORTFOLIO</font>
+</h3>
 
 <i>A comprehensive showcase of projects, insights, and professional journey</i>
 
 <br><br>
 
 <a href="https://omemahhasan-hub.github.io/">
-  <img src="https://img.shields.io/badge/Explore%20Portfolio-3B82F6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+  <img src="https://img.shields.io/badge/EXPLORE-2563EB?style=for-the-badge&logoColor=white" alt="Portfolio">
 </a>
 
 </div>
-
----
-
 ---
 
 
