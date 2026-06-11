@@ -86,17 +86,6 @@ Reduced manual processing time significantly
 
 ---
 
-##  Key Strengths
-
-| 🎯 Skill | Level | Proof |
-|----------|-------|-------|
-| Data Analysis | ⭐⭐⭐⭐⭐ | 3 Complete Projects |
-| Python | ⭐⭐⭐⭐☆ | Data Analysis & ML |
-| SQL | ⭐⭐⭐⭐☆ | Complex Data Queries |
-| Visualization | ⭐⭐⭐⭐⭐ | Tableau, Power BI |
-| Problem-Solving | ⭐⭐⭐⭐⭐ | Real-world Projects |
-
----
 
 ##  Why Me?
 
