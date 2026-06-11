@@ -95,6 +95,6 @@ Reduced manual processing time significantly
 
 
 
-** 💬 Open to opportunities | Data Analysis | Python | SQL | Business Intelligence **
+ 💬 Open to opportunities | Data Analysis | Python | SQL | Business Intelligence 
 
 </div>
