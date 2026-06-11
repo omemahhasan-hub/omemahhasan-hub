@@ -9,7 +9,6 @@
 --------
 <i>A comprehensive showcase of projects, insights, and professional journey</i>
 
-<br>
 
 <a href="https://omemahhasan-hub.github.io/">
  <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge" alt="Portfolio">
