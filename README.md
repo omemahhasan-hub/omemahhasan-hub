@@ -68,7 +68,7 @@ Reduced manual processing time significantly
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -86,13 +86,13 @@ Reduced manual processing time significantly
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1e3a8a?style=for-the-badge&logo=globe&logoColor=white)](https://omemahhasan-hub.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omemahhasan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/o-hasan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o-hasan)
 
 
 ---
