@@ -12,8 +12,7 @@
 <br><br>
 
 <a href="https://omemahhasan-hub.github.io/">
-  <img src="https://img.shields.io/badge/EXPLORE-2563EB?style=for-the-badge&logoColor=white" alt="Portfolio">
-</a>
+ <img src="https://img.shields.io/badge/EXPLORE-2563EB?style=for-the-badge" alt="Portfolio">
 
 </div>
 
