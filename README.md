@@ -1,23 +1,26 @@
 
 <!-- Portfolio Link - Top Priority -->
 
+<!-- Animated Header -->
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=60A5FA&center=true&vCenter=true&width=650&height=100&lines=Data+Analyst+%7C+SQL+%7C+Python;Transforming+Data+Into+Impact" alt="Typing SVG" />
 
-<br>
+<h3 style="color:#60A5FA;">
+🌐 Portfolio Website
+</h3>
 
 <i>A comprehensive showcase of projects, insights, and professional journey</i>
 
 <br><br>
 
 <a href="https://omemahhasan-hub.github.io/">
-  <img src="https://img.shields.io/badge/🚀%20Visit%20Portfolio-60A5FA?style=for-the-badge&logo=githubpages&logoColor=white" />
+  <img src="https://img.shields.io/badge/✨%20Explore%20My%20Portfolio-60A5FA?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=3B82F6" />
 </a>
 
 </div>
 
-
+---
 
 
 
