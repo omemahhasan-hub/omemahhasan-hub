@@ -4,16 +4,11 @@
 <!-- Animated Header with Darker Blue -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=1e3a8a&center=true&width=600&height=100&lines=Data+Analyst+%7C+SQL+%7C+Python;Transforming+Data+Into+Impact" alt="Typing SVG" />
-
+*A comprehensive showcase of projects, insights, and professional journey*
  
 </div>
 
 ---
-
-
-
-
-
 
 <p align="center">
   <a href="https://omemahhasan-hub.github.io/">
@@ -31,15 +26,7 @@
 
 
 
-<div align="center">
 
-# 🌐 [Visit My Portfolio Website](https://omemahhasan-hub.github.io/)
-
-*A comprehensive showcase of projects, insights, and professional journey*
-
----
-
-</div>
 
 ## 💡 About Me
 
