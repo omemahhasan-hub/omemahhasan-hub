@@ -22,7 +22,7 @@ Aspiring Data Analyst skilled in Python, SQL, Excel, Power BI, and data visualiz
 
 
 
-<br>
+
 ##  Featured Projects
 
 <div align="center">
