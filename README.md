@@ -32,7 +32,7 @@ Aspiring Data Analyst with hands-on experience in Python, SQL, Excel, and data v
 ![Dashboard 1](https://github.com/omemahhasan-hub/data_analyst_capstone_project/blob/main/4.%20Power_BI_Dashboard/4.3%20Screenshots_Dashboard/HR_dashboard_overview_1.PNG?raw=true) 
 
 
-🔹 Analyzed workforce demographics, hiring trends, employee performance, and turnover patterns.    
+🔹 <i>Analyzed workforce demographics, hiring trends, employee performance, and turnover patterns.</i>     
 **Result**: Identified a 32.6% employee turnover rate to support retention-focused decision making.   
 **Stack**: Power BI • SQL • Python • Pandas • Matplotlib • Seaborn   
 
@@ -46,7 +46,7 @@ Aspiring Data Analyst with hands-on experience in Python, SQL, Excel, and data v
 ![Dashboard 2](https://github.com/omemahhasan-hub/startup-investment-growth-analysis/blob/main/images/dashboards/dashboard-1-sc.PNG?raw=true)
 
   
-🔹 Analyzed startup investment trends, funding patterns, and valuation growth across industries.   
+🔹 <i>Analyzed startup investment trends, funding patterns, and valuation growth across industries.</i>    
 **Result**: EdTech emerged as the fastest-growing industry, while Australia led with the highest number of startups.   
 **Stack**: Power BI • Power Query • Excel   
 
@@ -59,7 +59,7 @@ Aspiring Data Analyst with hands-on experience in Python, SQL, Excel, and data v
 
 ![Dashboard 3](https://github.com/omemahhasan-hub/global-retail-dashboard-analysis/blob/main/images/dashboards/Excel-dashboard-overview.PNG?raw=true)
 
-🔹 Analyzed sales performance, profitability, customer segments, and shipping trends across global markets.   
+🔹 <i>Analyzed sales performance, profitability, customer segments, and shipping trends across global markets.</i>   
 **Result**: Canada generated the highest profitability with storage being the most profitable product.     
 **Stack**:  Excel • Power Query   
 
