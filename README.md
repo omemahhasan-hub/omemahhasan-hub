@@ -31,7 +31,7 @@ Aspiring Data Analyst with hands-on experience in Python, SQL, Excel, and data v
 
 ![Dashboard 1](https://github.com/omemahhasan-hub/data_analyst_capstone_project/blob/main/4.%20Power_BI_Dashboard/4.3%20Screenshots_Dashboard/HR_dashboard_overview_1.PNG?raw=true) 
 
-🔹 HR Analytics Dashboard
+🔹 HR Analytics Dashboard   
 Analyzed workforce demographics, hiring trends, employee performance, and turnover patterns.    
 **Result**: Identified a 32.6% employee turnover rate to support retention-focused decision making.   
 **Stack**: Power BI • SQL • Python • Pandas • Matplotlib • Seaborn   
@@ -45,7 +45,7 @@ Analyzed workforce demographics, hiring trends, employee performance, and turnov
 
 ![Dashboard 2](https://github.com/omemahhasan-hub/startup-investment-growth-analysis/blob/main/images/dashboards/dashboard-1-sc.PNG?raw=true)
 
-🔹 Startup Investment Growth Dashboard
+🔹 Startup Investment Growth Dashboard   
 Analyzed startup investment trends, funding patterns, and valuation growth across industries.   
 **Result**: EdTech emerged as the fastest-growing industry, while Australia led with the highest number of startups.   
 **Stack**: Power BI • Power Query • Excel   
