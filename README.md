@@ -18,7 +18,7 @@
 
 
 ##  About Me
-Aspiring Data Analyst skilled in Python, SQL, Excel, Power BI, and data visualization. I build end-to-end analytics projects that transform raw data into actionable insights through dashboards and reports. Experienced in both traditional analytics workflows and AI-assisted solutions, combining analytical thinking with modern data tools.
+Aspiring Data Analyst skilled in Python, SQL, Excel, Power BI, and data visualization. I build end-to-end analytics projects that transform raw data into actionable insights through dashboards and reports.Experienced in both traditional analytics workflows and AI-assisted dashboard development, combining analytical thinking with modern data tools.
 
 
 
@@ -61,7 +61,7 @@ Aspiring Data Analyst skilled in Python, SQL, Excel, Power BI, and data visualiz
 ![Dashboard 3](https://github.com/omemahhasan-hub/global-retail-dashboard-analysis/blob/main/images/dashboards/Excel-dashboard-overview.PNG?raw=true)
 
 🔹 **<i>Analyzed sales performance, profitability, customer segments, and shipping trends across global markets.</i>**   
-**Result**: Canada generated the highest profitability with storage being the most profitable product.     
+**Result**: Canada generated the highest profitability with storage being the most profitable product category.     
 **Stack**:  Excel • Power Query   
 
 **[View Project](https://github.com/omemahhasan-hub/global-retail-dashboard-analysis)**
