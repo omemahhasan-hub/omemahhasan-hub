@@ -59,8 +59,8 @@ Analyzed startup investment trends, funding patterns, and valuation growth acros
 
 ![Dashboard 3](https://github.com/omemahhasan-hub/global-retail-dashboard-analysis/blob/main/images/dashboards/Excel-dashboard-overview.PNG?raw=true)
 
-Analyzed sales trends, customer behavior, and revenue patterns  
-**Result**:   
+Analyzed sales performance, profitability, customer segments, and shipping trends across global markets.
+**Result**: Canada generated the highest profitability with storage being the most profitable product.   
 **Stack**:  Excel • Power Query
 
 👉 **[View Project](https://github.com/omemahhasan-hub/global-retail-dashboard-analysis)**
