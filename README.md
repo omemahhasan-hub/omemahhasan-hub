@@ -18,7 +18,8 @@
 
 
 ##  About Me
-Aspiring Data Analyst with hands-on experience in Python, SQL, Excel, and data visualization. I build real-world analytics projects that transform raw data into meaningful insights and interactive dashboards. Experienced in both manual dashboard development and AI-assisted analytics workflows, combining strong analytical foundations with modern productivity tools. Focused on delivering clear, data-driven solutions to business problems.
+Aspiring Data Analyst skilled in Python, SQL, Excel, Power BI, and data visualization. I build end-to-end analytics projects that transform raw data into actionable insights through dashboards and reports. Experienced in both traditional analytics workflows and AI-assisted solutions, combining analytical thinking with modern data tools.
+
 
 
 
@@ -27,7 +28,7 @@ Aspiring Data Analyst with hands-on experience in Python, SQL, Excel, and data v
 <div align="center">
 
 ### 1️⃣ HR Analytics Dashboard
-**End-to-end sales analysis with interactive dashboards**
+**Interactive HR analytics and workforce reporting**
 
 ![Dashboard 1](https://github.com/omemahhasan-hub/data_analyst_capstone_project/blob/main/4.%20Power_BI_Dashboard/4.3%20Screenshots_Dashboard/HR_dashboard_overview_1.PNG?raw=true) 
 
@@ -41,7 +42,7 @@ Aspiring Data Analyst with hands-on experience in Python, SQL, Excel, and data v
 ---
 
 ### 2️⃣ Startup Investment Growth Analysis
-**ML-powered customer clustering & RFM analysis**
+**Investment trend and valuation analytics**
 
 ![Dashboard 2](https://github.com/omemahhasan-hub/startup-investment-growth-analysis/blob/main/images/dashboards/dashboard-1-sc.PNG?raw=true)
 
@@ -55,7 +56,7 @@ Aspiring Data Analyst with hands-on experience in Python, SQL, Excel, and data v
 ---
 
 ### 3️⃣ Global Retail Dashboard
-**Automated ETL pipeline for data processing**
+**Sales performance and profitability analysis**
 
 ![Dashboard 3](https://github.com/omemahhasan-hub/global-retail-dashboard-analysis/blob/main/images/dashboards/Excel-dashboard-overview.PNG?raw=true)
 
