@@ -55,13 +55,13 @@ Segmented customers using K-means clustering
 ### 3️⃣ Global Retail Dashboard
 **Automated ETL pipeline for data processing**
 
-![Data Pipeline](https://github.com/omemahhasan-hub/global-retail-dashboard-analysis/blob/main/images/dashboards/Excel-dashboard-overview.PNG?raw=true)
+![Dashboard 3](https://github.com/omemahhasan-hub/global-retail-dashboard-analysis/blob/main/images/dashboards/Excel-dashboard-overview.PNG?raw=true)
 
 Reduced manual processing time significantly  
 **Result**: 85% time reduction through automation  
 **Stack**: Python • SQL • Excel • Power BI
 
-👉 **[View Project](https://github.com/omemahhasan-hub/ecommerce-pipeline)**
+👉 **[View Project](https://github.com/omemahhasan-hub/global-retail-dashboard-analysis)**
 
 </div>
 
