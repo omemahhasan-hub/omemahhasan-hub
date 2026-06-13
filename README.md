@@ -31,9 +31,10 @@ Aspiring Data Analyst with hands-on experience in Python, SQL, Excel, and data v
 
 ![Dashboard 1](https://github.com/omemahhasan-hub/data_analyst_capstone_project/blob/main/4.%20Power_BI_Dashboard/4.3%20Screenshots_Dashboard/HR_dashboard_overview_1.PNG?raw=true) 
 
-Analyzed sales trends, customer behavior, and revenue patterns  
-**Result**: +23% improvement in actionable insights  
-**Stack**: Python • Pandas • Matplotlib • Seaborn
+🔹 HR Analytics Dashboard
+Analyzed workforce demographics, hiring trends, employee performance, and turnover patterns.  
+**Result**: Identified a 32.6% employee turnover rate to support retention-focused decision making.. 
+**Stack**: Power BI • SQL • Python • Pandas • Matplotlib • Seaborn
 
 👉 **[View Project](https://github.com/omemahhasan-hub/data_analyst_capstone_project)**
 
@@ -44,9 +45,7 @@ Analyzed sales trends, customer behavior, and revenue patterns
 
 ![Dashboard 2](https://github.com/omemahhasan-hub/startup-investment-growth-analysis/blob/main/images/dashboards/dashboard-1-sc.PNG?raw=true)
 
-Segmented customers using K-means clustering  
-**Result**: 87% silhouette score with actionable segments  
-**Stack**: Python • Scikit-learn • SQL • Tableau
+
 
 👉 **[View Project](https://github.com/omemahhasan-hub/startup-investment-growth-analysis)**
 
@@ -57,9 +56,9 @@ Segmented customers using K-means clustering
 
 ![Dashboard 3](https://github.com/omemahhasan-hub/global-retail-dashboard-analysis/blob/main/images/dashboards/Excel-dashboard-overview.PNG?raw=true)
 
-Reduced manual processing time significantly  
-**Result**: 85% time reduction through automation  
-**Stack**: Python • SQL • Excel • Power BI
+Analyzed sales trends, customer behavior, and revenue patterns  
+**Result**:   
+**Stack**:  Excel • Power Query
 
 👉 **[View Project](https://github.com/omemahhasan-hub/global-retail-dashboard-analysis)**
 
