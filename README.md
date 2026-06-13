@@ -29,6 +29,7 @@ Aspiring Data Analyst skilled in Python, SQL, Excel, Power BI, and data visualiz
 
 <div align="center">
 
+<br>
 ### 1️⃣ HR Analytics Dashboard
 **Interactive HR analytics and workforce reporting**
 
