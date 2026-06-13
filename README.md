@@ -21,7 +21,8 @@
 Aspiring Data Analyst skilled in Python, SQL, Excel, Power BI, and data visualization. I build end-to-end analytics projects that transform raw data into actionable insights through dashboards and reports.Experienced in both traditional analytics workflows and AI-assisted dashboard development, combining analytical thinking with modern data tools.
 
 
-                     
+
+<br>
 ##  Featured Projects
 
 <div align="center">
