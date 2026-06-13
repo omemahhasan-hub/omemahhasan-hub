@@ -26,7 +26,7 @@ Aspiring Data Analyst with hands-on experience in Python, SQL, Excel, and data v
 
 <div align="center">
 
-### 1️⃣ Sales Analytics Dashboard
+### 1️⃣ HR Analytics Dashboard
 **End-to-end sales analysis with interactive dashboards**
 
 ![Dashboard 1](images/dashboards/dashboard-1-sc.PNG) 
@@ -39,7 +39,7 @@ Analyzed sales trends, customer behavior, and revenue patterns
 
 ---
 
-### 2️⃣ Customer Segmentation Analysis
+### 2️⃣ Startup Investment Growth Analysis
 **ML-powered customer clustering & RFM analysis**
 
 ![Analytics Dashboard](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=500&h=300&fit=crop)
@@ -52,7 +52,7 @@ Segmented customers using K-means clustering
 
 ---
 
-### 3️⃣ E-commerce Data Pipeline
+### 3️⃣ Global Retail Dashboard
 **Automated ETL pipeline for data processing**
 
 ![Data Pipeline](https://images.unsplash.com/photo-1557838923-2985c318be48?w=500&h=300&fit=crop)
