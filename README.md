@@ -31,7 +31,7 @@ Aspiring Data Analyst skilled in Python, SQL, Excel, Power BI, and data visualiz
 <div align="center">
 
 
-### 1️⃣ HR ANALYTICS DASHBOARD
+### 1️⃣ HR  ANALYTICS  DASHBOARD
 **Interactive HR analytics and workforce reporting**
 
 ![Dashboard 1](https://github.com/omemahhasan-hub/data_analyst_capstone_project/blob/main/4.%20Power_BI_Dashboard/4.3%20Screenshots_Dashboard/HR_dashboard_overview_1.PNG?raw=true) 
@@ -46,7 +46,7 @@ Aspiring Data Analyst skilled in Python, SQL, Excel, Power BI, and data visualiz
 
 ---
 
-### 2️⃣ Startup Investment Growth Analysis
+### 2️⃣ STARTUP  INVESTMENT  GROWTH  ANALYSIS
 **Investment trend and valuation analytics**
 
 ![Dashboard 2](https://github.com/omemahhasan-hub/startup-investment-growth-analysis/blob/main/images/dashboards/dashboard-1-sc.PNG?raw=true)
