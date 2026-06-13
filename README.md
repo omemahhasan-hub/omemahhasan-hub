@@ -46,9 +46,9 @@ Analyzed workforce demographics, hiring trends, employee performance, and turnov
 ![Dashboard 2](https://github.com/omemahhasan-hub/startup-investment-growth-analysis/blob/main/images/dashboards/dashboard-1-sc.PNG?raw=true)
 
 🔹 Startup Investment Growth Dashboard
-Analyzed startup investment trends, funding patterns, and valuation growth across industries.
-**Result**: EdTech emerged as the fastest-growing industry, while Australia led with the highest number of startups.
-**Stack**: Power BI • Power Query • Excel
+- Analyzed startup investment trends, funding patterns, and valuation growth across industries.
+- **Result**: EdTech emerged as the fastest-growing industry, while Australia led with the highest number of startups.
+- **Stack**: Power BI • Power Query • Excel
 
 👉 **[View Project](https://github.com/omemahhasan-hub/startup-investment-growth-analysis)**
 
