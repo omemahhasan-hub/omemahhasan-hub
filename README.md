@@ -34,6 +34,7 @@ Aspiring Data Analyst skilled in Python, SQL, Excel, Power BI, and data visualiz
 
 
  **<i>Analyzed workforce demographics, hiring trends, employee performance, and turnover patterns.</i>**     
+    
 **Result**: Identified a 32.6% employee turnover rate to support retention-focused decision making.   
 **Stack**: Power BI • SQL • Python • Pandas • Matplotlib • Seaborn   
 
@@ -62,6 +63,7 @@ Aspiring Data Analyst skilled in Python, SQL, Excel, Power BI, and data visualiz
 ![Dashboard 3](https://github.com/omemahhasan-hub/global-retail-dashboard-analysis/blob/main/images/dashboards/Excel-dashboard-overview.PNG?raw=true)
 
  **<i>Analyzed sales performance, profitability, customer segments, and shipping trends across global markets.</i>**   
+    
 **Result**: Canada generated the highest profitability with storage being the most profitable product category.     
 
 
