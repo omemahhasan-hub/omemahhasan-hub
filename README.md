@@ -48,7 +48,7 @@ Segmented customers using K-means clustering
 **Result**: 87% silhouette score with actionable segments  
 **Stack**: Python • Scikit-learn • SQL • Tableau
 
-👉 **[View Project](https://github.com/omemahhasan-hub/customer-segmentation)**
+👉 **[View Project](https://github.com/omemahhasan-hub/startup-investment-growth-analysis)**
 
 ---
 
