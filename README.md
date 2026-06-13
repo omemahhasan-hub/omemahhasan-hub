@@ -32,9 +32,9 @@ Aspiring Data Analyst with hands-on experience in Python, SQL, Excel, and data v
 ![Dashboard 1](https://github.com/omemahhasan-hub/data_analyst_capstone_project/blob/main/4.%20Power_BI_Dashboard/4.3%20Screenshots_Dashboard/HR_dashboard_overview_1.PNG?raw=true) 
 
 🔹 HR Analytics Dashboard
-Analyzed workforce demographics, hiring trends, employee performance, and turnover patterns.  
-**Result**: Identified a 32.6% employee turnover rate to support retention-focused decision making.
-**Stack**: Power BI • SQL • Python • Pandas • Matplotlib • Seaborn
+Analyzed workforce demographics, hiring trends, employee performance, and turnover patterns.    
+**Result**: Identified a 32.6% employee turnover rate to support retention-focused decision making.   
+**Stack**: Power BI • SQL • Python • Pandas • Matplotlib • Seaborn   
 
 👉 **[View Project](https://github.com/omemahhasan-hub/data_analyst_capstone_project)**
 
