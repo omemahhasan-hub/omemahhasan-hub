@@ -45,7 +45,7 @@ Aspiring Data Analyst skilled in Python, SQL, Excel, Power BI, and data visualiz
  **[View Project](https://github.com/omemahhasan-hub/data_analyst_capstone_project)**
 
 ---
-
+<br>
 ### 2️⃣ STARTUP  INVESTMENT  GROWTH  ANALYSIS
 **Investment trend and valuation analytics**
 
@@ -60,8 +60,8 @@ Aspiring Data Analyst skilled in Python, SQL, Excel, Power BI, and data visualiz
 **[View Project](https://github.com/omemahhasan-hub/startup-investment-growth-analysis)**
 
 ---
-
-### 3️⃣ Global Retail Dashboard
+<br>
+### 3️⃣ GLOBAL  RETAIL  DASHBOARD
 **Sales performance and profitability analysis**
 
 ![Dashboard 3](https://github.com/omemahhasan-hub/global-retail-dashboard-analysis/blob/main/images/dashboards/Excel-dashboard-overview.PNG?raw=true)
