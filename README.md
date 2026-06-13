@@ -55,7 +55,7 @@ Segmented customers using K-means clustering
 ### 3️⃣ Global Retail Dashboard
 **Automated ETL pipeline for data processing**
 
-![Data Pipeline](images/dashboards/dashboard-1-sc.PNG)
+![Data Pipeline](https://github.com/omemahhasan-hub/global-retail-dashboard-analysis/blob/main/images/dashboards/Excel-dashboard-overview.PNG?raw=true)
 
 Reduced manual processing time significantly  
 **Result**: 85% time reduction through automation  
