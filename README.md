@@ -42,7 +42,7 @@ Analyzed sales trends, customer behavior, and revenue patterns
 ### 2️⃣ Startup Investment Growth Analysis
 **ML-powered customer clustering & RFM analysis**
 
-![Analytics Dashboard](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=500&h=300&fit=crop)
+![Analytics Dashboard](https://github.com/omemahhasan-hub/startup-investment-growth-analysis/blob/main/images/dashboards/dashboard-1-sc.PNG?raw=true)
 
 Segmented customers using K-means clustering  
 **Result**: 87% silhouette score with actionable segments  
