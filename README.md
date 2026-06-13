@@ -35,7 +35,7 @@ Analyzed sales trends, customer behavior, and revenue patterns
 **Result**: +23% improvement in actionable insights  
 **Stack**: Python • Pandas • Matplotlib • Seaborn
 
-👉 **[View Project](https://github.com/omemahhasan-hub/data_analyst_capstone_project)**
+👉 **[View Project](https://github.com/omemahhasan-hub/startup-investment-growth-analysis)**
 
 ---
 
