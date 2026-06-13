@@ -101,7 +101,7 @@ Aspiring Data Analyst skilled in Python, SQL, Excel, Power BI, and data visualiz
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1e3a8a?style=for-the-badge&logo=globe&logoColor=white)](https://omemahhasan-hub.github.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=afrahhasan234@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=omemahhasan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o-hasan)
 
 
