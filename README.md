@@ -58,6 +58,7 @@ Aspiring Data Analyst skilled in Python, SQL, Excel, Power BI, and data visualiz
 **Stack**: Power BI • Power Query • Excel   
 
 **[View Project](https://github.com/omemahhasan-hub/startup-investment-growth-analysis)**
+<br>
 
 ---
 
