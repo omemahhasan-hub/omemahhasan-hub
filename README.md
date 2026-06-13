@@ -29,7 +29,7 @@ Aspiring Data Analyst with hands-on experience in Python, SQL, Excel, and data v
 ### 1️⃣ HR Analytics Dashboard
 **End-to-end sales analysis with interactive dashboards**
 
-![Dashboard 1](images/dashboards/dashboard-1-sc.PNG) 
+![Dashboard 1](https://github.com/omemahhasan-hub/data_analyst_capstone_project/blob/main/4.%20Power_BI_Dashboard/4.3%20Screenshots_Dashboard/HR_dashboard_overview_1.PNG?raw=true) 
 
 Analyzed sales trends, customer behavior, and revenue patterns  
 **Result**: +23% improvement in actionable insights  
